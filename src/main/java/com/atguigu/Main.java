@@ -10,5 +10,6 @@ public class Main {
         System.out.println("hot-fix test");
         System.out.println("IDEA Push test");
         System.out.println("拉取测试!!");
+        System.out.println("码云测试");
     }
 }
